@@ -34,7 +34,7 @@ jupyter notebook
 
 The notebook provides practice exercises for different feature engineering techniques. The exercises include the following techniques:
 
-1. 3 Standard Deviation 2.
+1. 3 Standard Deviation
 2. Imputation
 3. Binning
 4. Log Transform
